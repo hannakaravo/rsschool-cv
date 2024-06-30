@@ -1,4 +1,5 @@
-![Avatar](/rsschool-cv/avatar.jpg "Hi!")
+![Avatar](avatar.jpg)
+
 # Hanna Karavo
 
 [mail](hannamikhailava.workmail@gmail.com)
@@ -73,6 +74,3 @@ Experienced creating and maintaining test documentation, worked with Jira, Git.<
 * Russian - Native
 * Belarusian - Native
 * English - B2
-
-## Code
-
