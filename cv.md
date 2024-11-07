@@ -1,6 +1,6 @@
 <img src="profile.jpg" alt="profile" width="200" height="200">
 
-# Hanna Karavo
+# Hanna Karavo 
 
 JS/FE Course EN 2024Q4 student
 
