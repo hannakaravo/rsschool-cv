@@ -1,12 +1,12 @@
-<img scr="https://media.licdn.com/dms/image/v2/D5603AQFQUz-_xXNt_w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1699980444611?e=1736380800&v=beta&t=4GA1p5ozALLzUx-WCBGklfKHvUFmdLR3T4VgH65VTlA" alt="" width="200" height="200">
+<img src="profile.jpg" alt="profile" width="200" height="200">
 
 # Hanna Karavo
 
 JS/FE Course EN 2024Q4 student
 
-[<img src="icons/fa-linkedin.svg" width="30" height="30">](https://www.linkedin.com/in/hannakaravo/) [<img src="icons/fa-github.svg" width="30" height="30">](https://github.com/hannakaravo) 
+[<img src="icons/fa-linkedin.svg" width="30" height="30" alt="icon">](https://www.linkedin.com/in/hannakaravo/) [<img src="icons/fa-github.svg" width="30" height="30" alt="icon">](https://github.com/hannakaravo) 
 
-<img src="icons/fa-pin.svg" width="20" height="20"> Minsk, Belarus
+<img src="icons/fa-pin.svg" width="20" height="20" alt="icon"> Minsk, Belarus
 
 ## About
 
