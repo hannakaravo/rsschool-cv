@@ -1,12 +1,12 @@
-<img src="profile.jpg" alt="profile" width="200" height="200">
+<img src="assets/profile.jpg" alt="profile" width="200" height="200">
 
 # Hanna Karavo 
 
 JS/FE Course EN 2024Q4 student
 
-[<img src="icons/fa-link.svg" width="30" height="30" alt="icon">](https://www.linkedin.com/in/hannakaravo/) [<img src="icons/fa-git.svg" width="30" height="30" alt="icon">](https://github.com/hannakaravo) 
+[<img src="assets/fa-link.svg" width="30" height="30" alt="icon">](https://www.linkedin.com/in/hannakaravo/) [<img src="assets/fa-git.svg" width="30" height="30" alt="icon">](https://github.com/hannakaravo) 
 
-<img src="icons/fa-pin.svg" width="20" height="20" alt="icon"> Minsk, Belarus
+<img src="assets/fa-pin.svg" width="20" height="20" alt="icon"> Minsk, Belarus
 
 ## About
 
