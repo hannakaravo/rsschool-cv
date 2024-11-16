@@ -1,27 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
 * {
-    background-color: #232323;
+    background-color: #292929;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
 }
 
-h1 {}
+h1,
+h2,
+p {
+    color: #ebebeb;
+}
 
-h2 {}
+a,
+a:visited {
+    color: #ebebeb;
+    text-decoration: none;
+}
 
-p {}
+a:active,
+a:hover {
+    color: #4EAE7B;
+    text-decoration: none;
+}
 
-i {}
+nav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+}
 
-.links-block i {}
+nav>a {
+    vertical-align: top;
+    padding: 8px 0;
+    display: flex;
+    flex-direction: column;
+}
 
-header {}
+.nav-bar i {
+    font-size: 36px;
+    align-items: center;
+}
 
-nav {}
+.profile-card {
+    width: 500px;
+    padding: 2px 16px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    border-radius: 5px;
 
-body {}
+    img {
+        width: 500px;
+        border-radius: 5px;
+    }
+}
 
-.profile-card {}
+.profile-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
 
-img {}
+.links-block {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+
+    i {
+        padding: 0 6px;
+    }
+}
+
+main {
+    margin-left: 160px; /* Same as the width of the sidenav */
+    font-size: 28px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+}
 
 section {}
 
 footer {}
+
+.footer-block {
+    display: flex;
+    align-items: center;
+}
