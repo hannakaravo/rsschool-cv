@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="EN">
+
+<head>
+  <meta charset="utf-8">
+  <title>rsschool-cv-html</title>
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<header>
+  <nav class="nav-bar">
+    <a href="#about"><i class="fa fa-user"></i></a>
+    <a href="#skills"><i class="fa fa-star"></i></a>
+    <a href="#experience"><i class="fa fa-briefcase"></i></a>
+    <a href="#code"><i class="fa fa-file"></i></a>
+    <a href="#education"><i class="fa fa-graduation-cap"></i></a>
+    <a href="#lang"><i class="fa fa-language"></i></a>
+  </nav>
+</header>
+
+<body>
+  <main>
+    <section id="about">
+      <div class="profile-card">
+        <img src="./assets/profile.jpg" alt="profile-img">
+        <h1>Hanna Karavo</h1>
+        <p>JS/FE Course EN 2024Q4 student</p>
+        <div class="links-block">
+          <a href="https://www.linkedin.com/in/hannakaravo/"><i class="fa fa-linkedin"></i></a>
+          <a href="https://github.com/hannakaravo"><i class="fa fa-github"></i></a>
+        </div>
+        <p>Minsk, Belarus</p>
+      </div>
+      <h2>about me</h2>
+      <p>
+        Result-oriented Software Developer with a focus on SAP/Web development and Quality Assurance. <br>
+        5 years of experience in SAP ABAP/UI5 and Web development based on Vue.<br>
+        A year of experience in QA, skilled in functional and non-functional manual testing, API testing, black/white
+        boxes testing, worked with Postman API.<br>
+        Managed to work on IBM projects, developed applications for corporate benefits, documents management and
+        recognition system with thermal imager.<br>
+        Experienced in creating and maintaining test documentation, worked with Jira, Git.<br>
+        As a JS/FE Course EN 2024Q4 student I'd like to improve my knowledge in Frontend development and learn React.
+      </p>
+    </section>
+    <section id="skills">
+      <h2>my skills</h2>
+      <ul>
+        <li>Manual testing</li>
+        <li>Postman API</li>
+        <li>HTML / CSS basic</li>
+        <li>JavaScript basic</li>
+        <li>Vue2/3 basic</li>
+        <li>SQL</li>
+        <li>Figma</li>
+        <li>Jira / Redmine / Trello</li>
+        <li>Git</li>
+        <li>SAP ABAP / UI5</li>
+      </ul>
+    </section>
+    <section id="experience">
+      <h2>my experience</h2>
+      <ul>
+        <li>Mar 2024 - Present QA ENGINEER, SETPLEX</li>
+        <li>Jan 2019 - Feb 2024 SOFTWARE DEVELOPER, IBA GROUP</li>
+        <li>Jan 2016 - Jan 2019 PHOTOJOURNALIST, BSUIR</li>
+      </ul>
+    </section>
+    <section id="code">
+      <h2>code examples</h2>
+      <p>Examples from Codewars:</p>
+      <pre>const quarterOf = (month) => {
+        if (month >= 1 && month <&lt;= 12) {
+              month = month / 3;
+          } 
+          return Math.ceil(month);
+      }</pre>
+      <pre>function capitalizeWord(word) {
+          word = word[0].toUpperCase() + word.slice(1);
+          return word;
+        }</pre>
+      <pre>function fakeBin(x){
+          var res = '';
+          for (var i = 0; i <&lt;x.length; i++) {
+           if (Number(x[i]) >= 5) {
+                res += "1";
+            } else {
+                res += "0";
+            }
+            }
+          return res;
+        }</pre>
+    </section>
+    <section id="education">
+      <h2>my education</h2>
+      <p>BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS:</p>
+      <ul>
+        <li>2018 - 2020 - Master’s degree, Information Technology</li>
+        <li>2014 - 2018 - Bachelor’s degree, Economics of e-Business</li>
+      </ul>
+    </section>
+    <section id="lang">
+      <h2>languages</h2>
+      <ul>
+        <li>English (B2): using the language on a regular basis in work</li>
+        <li>Russian & Belarusian (Native)</li>
+      </ul>
+    </section>
+  </main>
+</body>
+
+<footer>
+  <div class="footer-block">
+    <img src="assets/rs-school-logo.svg" alt="rsschool-logo">
+    <a href="https://rs.school/courses/javascript">JS/FE Course EN 2024Q4, 2024</a>
+  </div>
+</footer>
+
+</html>
